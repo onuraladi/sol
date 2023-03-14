@@ -5,6 +5,7 @@ Uni SOL BRIDGE
 Clone this git and run the command, 
 
 Npm run.
+After the installation you can run the command of, yarn dev to start program at your localhost.
 
 You can start editing the page by modifying `pages/index.jsx`. The page auto-updates as you edit the file.
 
